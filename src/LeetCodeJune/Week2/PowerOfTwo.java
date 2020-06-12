@@ -8,6 +8,7 @@ public class PowerOfTwo {
         System.out.println(n);
         if(n == 0) return true;
         return isPowerOfTwo(n/2);
+        hello
 
     }
 }
