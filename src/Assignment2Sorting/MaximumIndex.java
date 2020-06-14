@@ -7,6 +7,9 @@ import java.util.Scanner;
 /**
  * Question Link
  * https://practice.geeksforgeeks.org/problems/maximum-index/0
+ *
+ * Answer Link
+ * https://practice.geeksforgeeks.org/viewSol.php?subId=cb792a07e8b36462a00c06ca0b7120d2&pid=129&user=shankarchakraborty1
  */
 
 

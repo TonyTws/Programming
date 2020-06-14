@@ -1,11 +1,14 @@
 package Assignment2Sorting;
 
+import java.util.Arrays;
+
 /**
  * Question link
  * https://www.geeksforgeeks.org/sum-manhattan-distances-pairs-points/
+ *
+ * Answer Link
+ * https://ideone.com/2Y9JI0
  */
-
-import java.util.Arrays;
 
 public class SumOfManhattanDistances {
     public static void main(String[] args) {

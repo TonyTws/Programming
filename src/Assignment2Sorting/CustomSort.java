@@ -1,9 +1,17 @@
 package Assignment2Sorting;
 
-import org.w3c.dom.ls.LSOutput;
 
 import java.util.Arrays;
 import java.util.Comparator;
+
+/**
+ * Question Link
+ * https://leetcode.com/problems/custom-sort-string/
+ *
+ * Answer Link
+ * https://leetcode.com/submissions/detail/353049156/
+ *
+ */
 
 public class CustomSort {
     public static void main(String[] args) {

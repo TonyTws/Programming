@@ -2,6 +2,13 @@ package Assignment2Sorting;
 import java.util.Arrays;
 import java.util.Comparator;
 
+/**
+ *
+ * Question Link
+ * https://leetcode.com/problems/k-closest-points-to-origin/
+ * Answer Link
+ * https://leetcode.com/submissions/detail/353037486/
+ */
 public class kClosestPointToOrigin {
 
     public int[][] kClosest(int[][] points, int K) {
