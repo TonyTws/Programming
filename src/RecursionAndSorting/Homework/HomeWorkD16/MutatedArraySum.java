@@ -1,4 +1,4 @@
-package HomeWorkBacktrackingD16;
+package RecursionAndSorting.Homework.HomeWorkD16;
 
 public class MutatedArraySum {
 

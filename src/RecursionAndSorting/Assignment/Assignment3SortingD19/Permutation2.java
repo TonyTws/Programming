@@ -1,4 +1,4 @@
-package Assignment3SortingD19;
+package RecursionAndSorting.Assignment.Assignment3SortingD19;
 
 import java.util.ArrayList;
 import java.util.Arrays;

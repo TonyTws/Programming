@@ -1,4 +1,4 @@
-package Assignment5SortingD21;
+package RecursionAndSorting.Assignment.Assignment5SortingD21;
 
 import java.util.Scanner;
 

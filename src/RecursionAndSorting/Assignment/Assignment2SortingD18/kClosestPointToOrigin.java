@@ -1,4 +1,4 @@
-package Assignment2SortingD18;
+package RecursionAndSorting.Assignment.Assignment2SortingD18;
 import java.util.Arrays;
 import java.util.Comparator;
 

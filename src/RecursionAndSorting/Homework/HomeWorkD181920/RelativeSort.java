@@ -1,7 +1,6 @@
-package HomeWorkSorting181920;
+package RecursionAndSorting.Homework.HomeWorkD181920;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class RelativeSort {
     public static void main(String[] args) {

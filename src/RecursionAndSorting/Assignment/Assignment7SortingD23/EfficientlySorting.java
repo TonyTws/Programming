@@ -1,6 +1,5 @@
-package Assignment7SortingD23;
+package RecursionAndSorting.Assignment.Assignment7SortingD23;
 
-import java.util.EnumSet;
 import java.util.Scanner;
 
 /**
