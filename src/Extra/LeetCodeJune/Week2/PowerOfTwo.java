@@ -1,4 +1,4 @@
-package LeetCodeJune.Week2;
+package Extra.LeetCodeJune.Week2;
 
 /**
  * Given an integer, write a function to determine if it is a power of two.

@@ -1,4 +1,4 @@
-package LeetCodeJune.Week2;
+package Extra.LeetCodeJune.Week2;
 
 import java.util.*;
 /**
@@ -84,8 +84,8 @@ class RandomizedSet {
 }
 
 /**
- * Your LeetCodeJune.Week2.RandomizedSet object will be instantiated and called as such:
- * LeetCodeJune.Week2.RandomizedSet obj = new LeetCodeJune.Week2.RandomizedSet();
+ * Your Extra.LeetCodeJune.Week2.RandomizedSet object will be instantiated and called as such:
+ * Extra.LeetCodeJune.Week2.RandomizedSet obj = new Extra.LeetCodeJune.Week2.RandomizedSet();
  * boolean param_1 = obj.insert(val);
  * boolean param_2 = obj.remove(val);
  * int param_3 = obj.getRandom();

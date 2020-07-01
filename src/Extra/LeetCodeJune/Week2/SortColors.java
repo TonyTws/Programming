@@ -1,4 +1,4 @@
-package LeetCodeJune.Week2;
+package Extra.LeetCodeJune.Week2;
 
 import java.util.Arrays;
 

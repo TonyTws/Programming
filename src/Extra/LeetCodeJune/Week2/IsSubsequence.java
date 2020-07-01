@@ -1,4 +1,4 @@
-package LeetCodeJune.Week2;
+package Extra.LeetCodeJune.Week2;
 
 /**
  Given a string s and a string t, check if s is subsequence of t.
