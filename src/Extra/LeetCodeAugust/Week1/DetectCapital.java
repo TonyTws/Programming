@@ -3,8 +3,8 @@ package Extra.LeetCodeAugust.Week1;
 public class DetectCapital {
     public static void main(String[] args) {
         String[] str = new String[]{"USA","leetcode","Google"};
-        for (int i = 0; i < str.length; i++) {
-            System.out.println(detectCapitalUse(str[i]));
+        for (String s : str) {
+            System.out.println(detectCapitalUse(s));
         }
     }
 
